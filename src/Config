@@ -1,0 +1,9 @@
+Total_Avenues: 3;
+Total_Streets: 3;
+Cars_Count: 10;
+Car_Speed: 10 fps;
+Distance_Between_Intersecection: 100 feet;  
+Yellow_Time: 3 sec;
+Car_Size: 10 feet;
+Room_Between_Car: 0;
+Lane_Limit: 5;
